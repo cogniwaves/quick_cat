@@ -1,0 +1,83 @@
+[
+  {
+    "createdDate": 1702739831277,
+    "updatedDate": 1702739831277,
+    "id": "7756613b9d4d070da90908ddd5087f8d",
+    "name": "Produit bio",
+    "isActive": true,
+    "textSearch": "Produit bio",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831277,
+    "updatedDate": 1702739831277,
+    "id": "85a3e9d5bfd835cfa342dfec52a0557b",
+    "name": "Biodynamique",
+    "isActive": true,
+    "textSearch": "Biodynamique",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831277,
+    "updatedDate": 1702739831277,
+    "id": "d212ce7fdc2357d19628334b5a2a2b2f",
+    "name": "Nature",
+    "isActive": true,
+    "textSearch": "Nature",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831278,
+    "updatedDate": 1702739831278,
+    "id": "a21a9cf5b96e44e2525042620529c706",
+    "name": "Casher",
+    "isActive": true,
+    "textSearch": "Casher",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831288,
+    "updatedDate": 1702739831288,
+    "id": "7f28b59e0773085b135d6126941bbe35",
+    "name": "Casher (Mevushal)",
+    "isActive": true,
+    "textSearch": "Casher (Mevushal)",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831329,
+    "updatedDate": 1702739831329,
+    "id": "cfcd208495d565ef66e7dff9f98764da",
+    "name": "0",
+    "isActive": true,
+    "textSearch": "0",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831329,
+    "updatedDate": 1702739831329,
+    "id": "7bf222dd6966a8c1218b9e1298611a07",
+    "name": "5% d’alcool et moins",
+    "isActive": true,
+    "textSearch": "5% d’alcool et moins",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831344,
+    "updatedDate": 1702739831344,
+    "id": "2d1c6e05b1f5a3a6b8472f1f8b915f69",
+    "name": "Vin orange",
+    "isActive": true,
+    "textSearch": "Vin orange",
+    "tagType": 2
+  },
+  {
+    "createdDate": 1702739831400,
+    "updatedDate": 1702739831400,
+    "id": "23511dd36feceb45e7c901c786f8cff7",
+    "name": "Équitable",
+    "isActive": true,
+    "textSearch": "Équitable",
+    "tagType": 2
+  }
+]

@@ -1,0 +1,137 @@
+{
+    "octogoneBaseUnitMeasure": {
+      "id": "4mwgSAFKoNSRfDIZykoL",
+      "name": "unité",
+      "abbreviation": "un",
+      "measureType": "unit",
+      "equivalence": {
+        "measureId": null,
+        "qtyOfMeasure": 1
+      }
+    },
+    "octogoneWeightMeasures": [
+      {
+        "id": "3yEPH8i3xLX8vwwLjfkd",
+        "name": "gramme",
+        "abbreviation": "g",
+        "measureType": "weight",
+        "equivalence": {
+          "measureId": null,
+          "qtyOfMeasure": 1
+        }
+      },
+      {
+        "id": "RtSe4oh5jnIeUSdNH74A",
+        "name": "kilogramme",
+        "abbreviation": "kg",
+        "measureType": "weight",
+        "equivalence": {
+          "measureId": "3yEPH8i3xLX8vwwLjfkd",
+          "qtyOfMeasure": 1000
+        }
+      },
+      {
+        "id": "A1qRtAMFq2xsgKbBSm9Y",
+        "name": "milligramme",
+        "abbreviation": "mg",
+        "measureType": "weight",
+        "equivalence": {
+          "measureId": "3yEPH8i3xLX8vwwLjfkd",
+          "qtyOfMeasure": 0.001
+        }
+      },
+      {
+        "id": "0NZwvGn10sWlTvPDFaOA",
+        "name": "once",
+        "abbreviation": "oz",
+        "measureType": "weight",
+        "equivalence": {
+          "measureId": "3yEPH8i3xLX8vwwLjfkd",
+          "qtyOfMeasure": 28.3495
+        }
+      },
+      {
+        "id": "CAVv1ztEr5iTdBHwAXSk",
+        "name": "livre",
+        "abbreviation": "lb",
+        "measureType": "weight",
+        "equivalence": {
+          "measureId": "3yEPH8i3xLX8vwwLjfkd",
+          "qtyOfMeasure": 453.592
+        }
+      }
+    ],
+    "octogoneVolumeMeasures": [
+      {
+        "id": "4BPmmhD4kXeUO9VMR0d0",
+        "name": "millilitre",
+        "abbreviation": "mL",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": null,
+          "qtyOfMeasure": 1
+        }
+      },
+      {
+        "id": "1YvSZUHeblyrlCzdi28g",
+        "name": "cuillère à table",
+        "abbreviation": "tbsp",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 15
+        }
+      },
+      {
+        "id": "aucXjbiP6MbRH730Scm3",
+        "name": "cuillère à thé",
+        "abbreviation": "tsp",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 5
+        }
+      },
+      {
+        "id": "Gbiw80HNeBUSXaMPNzf4",
+        "name": "tasse",
+        "abbreviation": "cup",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 250
+        }
+      },
+      {
+        "id": "9WJ5NDZm5uS9qvbExdW9",
+        "name": "gallon",
+        "abbreviation": "gal",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 3785.41
+        }
+      },
+      {
+        "id": "lCDrg9U0L5F0q2tHZzYS",
+        "name": "litre",
+        "abbreviation": "L",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 1000
+        }
+      },
+      {
+        "id": "l2Ppj09lSEQ9Xho5zv8v",
+        "name": "once liquide",
+        "abbreviation": "oz",
+        "measureType": "volume",
+        "equivalence": {
+          "measureId": "4BPmmhD4kXeUO9VMR0d0",
+          "qtyOfMeasure": 29.5735
+        }
+      }
+    ]
+  }
+  
